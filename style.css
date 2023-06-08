@@ -539,6 +539,7 @@ p:hover+hr.rounded {
 	.content img {
 		padding-left: initial;
 		margin-top: 50px;
+		width: 220px;
 	}
 }
 
